@@ -1,0 +1,25 @@
+body {
+    background-color: #e2e4e5;
+    text-align: center;
+}
+h1 {
+    background-color:lightgray;
+    text-shadow: 8px 4px 8px red;
+    font-family: 'Black And White Picture', sans-serif;
+    font-size: 100px;
+    color: Black;
+    border: solid 5px black;
+}
+figcaption {
+    font-family: 'Gochi Hand', cursive;
+}
+figure {
+    text-shadow:4px 4px 4px palevioletred;
+    display:inline-block;
+    padding: 1em;
+    border:palevioletred 5px solid;
+}
+figure:hover {
+    background-color:lightgray;
+    color:red;
+}
